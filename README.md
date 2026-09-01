@@ -40,3 +40,4 @@ labo-devops/
 
 - Commits et tags signés avec GPG (ed25519, clé 9C375FE898788F23)
 - Authentification GitHub par clé SSH ed25519 dédiée
+- Identité : efoures1@gmail.com
